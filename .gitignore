@@ -5,3 +5,6 @@ shots/
 # OS noise
 Thumbs.db
 .DS_Store
+live.json
+live_dl.html
+

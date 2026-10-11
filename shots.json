@@ -1,0 +1,30 @@
+[
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/shots/u1_aerial_ne.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html",
+  "settle": 2400,
+  "eval": "VS.setMood('dawn');VS.snapMood();VS.rig.autoRotate=false;VS.rig.tTheta=2.60;VS.rig.theta=2.60;VS.rig.tPhi=0.55;VS.rig.phi=0.55;VS.rig.tRadius=30;VS.rig.radius=30;VS.rig.tTarget.set(0,2.0,0);VS.rig.target.copy(VS.rig.tTarget);",
+  "after": 3400
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/shots/u2_aerial_high.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html",
+  "settle": 2400,
+  "eval": "VS.setMood('dawn');VS.snapMood();VS.rig.autoRotate=false;VS.rig.tTheta=3.00;VS.rig.theta=3.00;VS.rig.tPhi=0.75;VS.rig.phi=0.75;VS.rig.tRadius=26;VS.rig.radius=26;VS.rig.tTarget.set(0,2.0,-4);VS.rig.target.copy(VS.rig.tTarget);",
+  "after": 3400
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/shots/u3_aerial_noon.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html",
+  "settle": 2400,
+  "eval": "VS.setMood('noon');VS.snapMood();VS.rig.autoRotate=false;VS.rig.tTheta=5.20;VS.rig.theta=5.20;VS.rig.tPhi=0.62;VS.rig.phi=0.62;VS.rig.tRadius=30;VS.rig.radius=30;VS.rig.tTarget.set(0,2.0,2);VS.rig.target.copy(VS.rig.tTarget);",
+  "after": 3400
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/shots/u4_cross_dawn.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html",
+  "settle": 2400,
+  "eval": "VS.rig.autoRotate=false;VS.setMood('dawn');VS.snapMood();VS.cutTo('cross');",
+  "after": 3400
+ }
+]

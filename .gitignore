@@ -1,0 +1,7 @@
+# scratch renders produced by shot.mjs
+shots/
+*.log
+
+# OS noise
+Thumbs.db
+.DS_Store

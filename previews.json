@@ -1,0 +1,58 @@
+[
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/01-exterior-dawn.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=hero&mood=dawn",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/02-entrance-door.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=entry&mood=dawn",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/03-cross-of-light-dusk.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=cross&mood=dusk",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/04-nave-night.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=nave&mood=night",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/05-north-facade-night.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=north&mood=night",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/06-cross-close-noon.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=close&mood=noon",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ },
+ {
+  "out": "C:/Users/nyans/AppData/Local/Programs/DSH Desktop/church-of-light/preview/07-beams-dawn.png",
+  "url": "file:///C:/Users/nyans/AppData/Local/Programs/DSH%20Desktop/church-of-light/Church-of-the-Light.html?still=1&nohud=1&view=pew&mood=dawn",
+  "settle": 2200,
+  "eval": "document.documentElement.getAttribute('data-boot')",
+  "after": 150,
+  "probe": true
+ }
+]

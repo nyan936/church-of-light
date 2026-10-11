@@ -1,7 +1,15 @@
 # 光之教堂 · Church of the Light — 安藤忠雄, 1989
 
 一个自包含的实时 3D 网页场景：大阪茨木「光之教堂」（茨木春日丘教会）。
-**双击 `Church-of-the-Light.html` 即可用浏览器打开**（three.js 已内联，无需联网、无需服务器）。
+
+## 🔗 在线打开
+
+**<https://nyan936.github.io/church-of-light/>**
+
+离线打开同样可以：**双击 `Church-of-the-Light.html`**（three.js 已内联，无需联网、无需服务器）。
+`index.html` 是给 GitHub Pages 用的同名副本，由 `build.mjs` 与它一起生成，内容完全一致。
+
+> 体积说明：单文件 726 KB，gzip 后约 191 KB，首屏 1–2 秒（不依赖任何外部请求）。
 
 ## 场景内容
 - 一座 6.2 × 18 × 5.9 m 的清水混凝土盒子：四片独立的端墙（厚 24 cm）被两条 42 cm 宽的狭缝切成「光之十字」；
